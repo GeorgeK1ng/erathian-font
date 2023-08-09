@@ -1,0 +1,10 @@
+{
+	"name" : "Erathian font",
+	"description" : "Font of Erathian language in the universe of (Heroes of) Might and Magic game series. Not easy to read...",
+	"version" : "2.1",
+	"author" : "Tom Chen",
+	"contact" : "https://might-and-magic.github.io/erathian-font/",
+	"modType" : "Graphical",
+	"licenseName" : "SIL Open Font License, Version 1.1",
+	"licenseURL" : "https://scripts.sil.org/cms/scripts/page.php?id=OFL"
+}
